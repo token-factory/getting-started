@@ -1,0 +1,16 @@
+{
+  "name": "stellar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^4.2.2",
+    "stellar-sdk": "^0.11.0",
+    "node-gyp": "*"
+  }
+}

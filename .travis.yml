@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - "node"
+
+branches:
+  only:
+  - master
+
+env:
+  global:
+    - COMMIT=${TRAVIS_COMMIT}
+
+before_script:
+  - "make test-stellar"
+
+
+
