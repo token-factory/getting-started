@@ -27,4 +27,5 @@ Including in this base project are demo and examples for Token Factory and Stell
 ## Publications
 - Exploring Tokens with Stellar: Creating a unique user experience for exchanging digital tokens [Link](https://itnext.io/exploring-tokens-with-stellar-291172208639)  
 - GraphQL in a Micro Services Architecture: GraphQL stitching increases developer agility and productivity [Link](https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb)  
-- Simplify your GraphQL API Strategy using Interfaces [Link](https://itnext.io/leveraging-graphql-schema-and-interfaces-4bfa9b72d6b2)  
+- Simplify your GraphQL API Strategy using Interfaces [Link](https://itnext.io/leveraging-graphql-schema-and-interfaces-4bfa9b72d6b2)
+- How to deploy a Stellar validator on Kubernetes with Helm [Link](https://itnext.io/how-to-deploy-a-stellar-validator-on-kubernetes-with-helm-a111e5dfe437)
